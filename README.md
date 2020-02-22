@@ -7,16 +7,21 @@
 
 Project Ideas:
 Project Idea 1
+
 Produce Tracker
 A web application which uses Blockchain to track damaged/infected produce by analyzing and data mine data online to study and learn the path of the products going from manufacturer, distributor, and retailers. The main feature will be to implement ML algorithms to be able to detect the chain of the bad produce when it gets reported by the customer by tracking the latest blockchain using timestamp.
 The general public
 
+
 Project Idea 2
+
 Project title- Github workflow manager
 Project Idea and Goal- As of now there is no way to track issue status on github . So we are planning to design a bot in which a chat can be initiated by a user to receive notification for issue status change that will make issue tracking easier. Also users can be notified for issues that have not been addressed for a long time so that users can make a decision to close that issue or to work on it.
 Github Users (students, developers)
 
+
 Project Idea 3 
+
 Project title - Predicting House prices
 Project Idea and Goal - The idea is to predict the house prices in particular areas based on various factors which influence the house negotiations. We will predict the final price of the home based on various variables using machine learning predictive analytics and    advanced regression techniques. This price prediction will be helpful for any new home buyer to negotiate with property owners or real estate agents.
 The general public
